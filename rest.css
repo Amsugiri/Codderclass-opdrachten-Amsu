@@ -1,0 +1,29 @@
+html { 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-color: rgb(50, 50, 50);
+}
+
+
+li {
+      float: center;
+      font-family: "Lucida Console", "Courier New", monospace;
+    }
+li a {
+      display: block;
+      color: rgb(200, 200, 200);
+      text-align: center;
+      padding: 10px;
+      text-decoration: none;
+}
+
+h1, h2, h3, p{
+    color: rgb(210, 210, 210);
+}
+
+iframe {
+    height: 13cm;
+    width: 25cm;
+}
